@@ -18,10 +18,6 @@ namespace Individual_Assignment_4
             InitializeComponent();
         }
 
-        private void inputTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void inputButton_Click(object sender, EventArgs e)
         {
@@ -36,16 +32,6 @@ namespace Individual_Assignment_4
                 MessageBox.Show("Input is empty");
             }
             
-        }
-
-        private void outputLabel_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void InputTextBox_TextChanged_1(object sender, EventArgs e)
